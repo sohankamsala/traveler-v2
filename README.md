@@ -67,3 +67,5 @@ VITE_GOOGLE_CX_FLAG=your_cx_flag
 VITE_GOOGLE_CX_GENERAL=your_cx_general
 VITE_OPENAI_PROXY=http://localhost:8080/openai
 ```
+
+

@@ -1,5 +1,8 @@
 ---
 
+![Demo](ezgif-5f7aa0120c0a86.gif)
+
+
 # 🌍 traveler-v2
 
 A personal project built as my **first React app** to use various libraries and learn **Express** and **API integration**.

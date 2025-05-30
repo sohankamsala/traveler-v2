@@ -79,6 +79,9 @@ web_modules/
 .env.production.local
 .env.local
 
+traveler-v2-server/.env
+traveler-v2-front/.env
+
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 .parcel-cache
@@ -134,3 +137,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+.env
